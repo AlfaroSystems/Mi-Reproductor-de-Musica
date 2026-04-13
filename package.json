@@ -18,11 +18,11 @@
     "electron-updater": "^6.6.2"
   },
   "build": {
-    "appId": "com.Virgilio.mireproductor",
+    "appId": "com.AlfaroSystems.mireproductor",
     "productName": "MiReproductordeMusica",
     "publish": {
       "provider": "github",
-      "owner": "Virgi02i87167",
+      "owner": "AlfaroSystems",
       "repo": "Mi-Reproductor-de-Musica"
     }
   }
